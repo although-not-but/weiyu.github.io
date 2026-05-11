@@ -328,6 +328,12 @@ h2 {
   line-height: 1.25;
 }
 
+.degree-line-sub {
+  color: var(--muted);
+  font-size: clamp(0.98rem, 1.35vw, 1.18rem);
+  font-weight: 460;
+}
+
 .school-line {
   color: #4ba8c4;
   font-size: clamp(1.2rem, 1.95vw, 1.78rem);
